@@ -32,7 +32,8 @@ st.write(
     "Death is a cup from which every living being drinks eventually.",
     unsafe_allow_html=True,
 )
-
+st.divider()
+st.write('For more projects kindly visit https://github.com/Anonymous124816')
 st.divider()
 # st.write('---',)
 # os.chdir(path="F:\anonymous\ml\deaths")
